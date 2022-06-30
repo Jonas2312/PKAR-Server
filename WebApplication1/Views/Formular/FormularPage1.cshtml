@@ -1,0 +1,21 @@
+﻿
+@{
+    ViewData["Title"] = "FormularPage1";
+}
+
+
+<form asp-controller="Formular" asp-action="FormularPage2">
+
+  <label for="firstName">Vorname: </label><br>
+  <input runat="server" type="text" id="firstNameTextBox" name="firstNameTextBox" value="@ViewBag.firstNameTextBox"><br>
+  <label for="lastName">Nachname: </label><br>
+  <input  runat="server" type="text" id="lastNameTextBox" name="lastNameTextBox"><br>
+  <label for="lastName">Art der Versicherung: </label><br>
+  <select runat="server" name="Versicherungsart" id="Versicherungsart"><br>
+      <option value="Kassenpatient">Kassenpatient</option>
+      <option value="Privatpatient">Privatpatient</option>
+  </select>
+  <input type="submit" class="SubmitButton" ></input>
+</form> 
+
+
