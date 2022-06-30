@@ -1,8 +1,8 @@
 ﻿using Microsoft.AspNetCore.Mvc;
 using System.Diagnostics;
-using WebApplication1.Models;
+using PKAR.WebApplication.Models;
 
-namespace WebApplication1.Controllers
+namespace PKAR.WebApplication.Controllers
 {
     public class HomeController : Controller
     {

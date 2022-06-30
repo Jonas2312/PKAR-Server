@@ -1,0 +1,62 @@
+﻿
+@media (max-width : 768px) {
+
+
+    html {
+        font-size: 110%;
+        text-align: center;
+        margin-top: 6px;
+        margin-bottom: 6px;
+        margin-right: 6px;
+        margin-left: 6px;
+    }
+
+
+    div {
+        display: inline-block;
+        text-align: center;
+        margin-right: 30px;
+        width: 600px;
+    }
+
+    input {
+        font-size: 110%;
+        background-color: white;
+        text-align: center;
+        margin-top: 6px;
+        margin-bottom: 6px;
+        margin-right: 6px;
+        margin-left: 6px;
+    }
+
+    select {
+        font-size: 110%;
+        text-align: center;
+        background-color: white;
+        margin-top: 6px;
+        margin-bottom: 6px;
+        margin-right: 6px;
+        margin-left: 6px;
+    }
+
+    textarea {
+        font-size: 110%;
+        text-align: center;
+        background-color: white;
+        margin-top: 6px;
+        margin-bottom: 6px;
+        margin-right: 6px;
+        margin-left: 6px;
+    }
+
+
+    body {
+        background-image: url("2hqdefault.jpg");
+        background-position: center; /* Center the image */
+        background-repeat: no-repeat; /* Do not repeat the image */
+        background-size: cover;
+        font-size: 110%;
+        margin-top: 30px;
+        margin-bottom: 30px;
+    }
+}

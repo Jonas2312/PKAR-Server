@@ -9,56 +9,18 @@ using System.Threading.Tasks;
 
 namespace PKAR.Domain
 {
-    [BindProperties]
     public class UserModel : IUserModel
     {
-        string _firstName;
-        string _lastName;
-        DateTime _birthDate;
-
-        public string FirstName
+        public UserModel()
         {
-            get
-            {
-                return _firstName;
-            }
 
-            set
-            {
-                _firstName = value;
-                Console.WriteLine(value);
-                OnPropertyChanged();
-            }
         }
-
-        public string LastName
-        {
-            get
-            {
-                return _lastName;
-            }
-
-            set
-            {
-                _lastName = value;
-                OnPropertyChanged();
-            }
-        }
-
-
-        public DateTime BirthDate { 
-            get
-            {
-                return _birthDate;
-            }
-            set
-            {
-                _birthDate = value;
-                OnPropertyChanged();
-            }
-        }
-
+        public string FirstName { get; set; }
+        public string LastName { get; set; }
+        public DateTime BirthDate { get; set; }
         public string Versicherungsart { get ; set; }
+        public string PhoneNumber { get; set ; }
+        public string EmailAddress { get; set ; }
 
         public event PropertyChangedEventHandler? PropertyChanged;
 
@@ -69,7 +31,14 @@ namespace PKAR.Domain
 
         public override string ToString()
         {
-            return $"User: First name: {FirstName} | Last name: {LastName} | Versicherungsart: {Versicherungsart}";
+            return      $"First name: {FirstName} | Last name: {LastName} | Versicherungsart: {Versicherungsart} | "
+                    +   $"EmailAddress: {EmailAddress} | PhoneNumber: {PhoneNumber}";
+        }
+
+        public void WriteToFile()
+        {
+            var guidString = Guid.NewGuid().ToString().Replace("-","");
+            File.WriteAllText(@$"C:\Users\jonas\Desktop\TEMP\usermodel{guidString}.txt", ToString());
         }
     }
 }

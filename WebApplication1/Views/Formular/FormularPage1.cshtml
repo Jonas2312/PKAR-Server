@@ -3,19 +3,33 @@
     ViewData["Title"] = "FormularPage1";
 }
 
+<head>
+    <meta charset="utf-8" />
+    <meta name="viewport" content="width=device-width, initial-scale=1.0" />
+    <link rel="stylesheet" href="~/css/site.css" asp-append-version="true" />
+</head>
 
 <form asp-controller="Formular" asp-action="FormularPage2">
 
-  <label for="firstName">Vorname: </label><br>
-  <input runat="server" type="text" id="firstNameTextBox" name="firstNameTextBox" value="@ViewBag.firstNameTextBox"><br>
-  <label for="lastName">Nachname: </label><br>
+  <label >Vorname: </label><br>
+  <input runat="server" type="text" id="firstNameTextBox" name="firstNameTextBox"><br>
+  
+  <label>Nachname: </label><br>
   <input  runat="server" type="text" id="lastNameTextBox" name="lastNameTextBox"><br>
-  <label for="lastName">Art der Versicherung: </label><br>
+
+  <label>Art der Versicherung: </label><br>
   <select runat="server" name="Versicherungsart" id="Versicherungsart"><br>
       <option value="Kassenpatient">Kassenpatient</option>
       <option value="Privatpatient">Privatpatient</option>
-  </select>
-  <input type="submit" class="SubmitButton" ></input>
+  </select><br>
+
+  <label>Telefonnummer</label><br>
+  <input  runat="server" type="text" id="phoneNumberTextBox" name="phoneNumberTextBox"><br>
+
+  <label>Email-Addresse</label><br>
+  <input  runat="server" type="text" id="emailAddressTextBox" name="emailAddressTextBox"><br>
+  
+  <input type="submit" class="SubmitButton" >
 </form> 
 
 

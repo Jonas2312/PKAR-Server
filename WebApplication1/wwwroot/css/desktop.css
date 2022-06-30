@@ -1,0 +1,58 @@
+﻿
+
+@media (min-width: 768px) {
+
+    html {
+        font-size: 125%;
+        text-align: center;
+        margin-top: 10px;
+        margin-bottom: 10px;
+        margin-right: 10px;
+        margin-left: 10px;
+    }
+
+    input {
+        font-size: 125%;
+        text-align: center;
+        margin-top: 10px;
+        margin-bottom: 10px;
+        margin-right: 10px;
+        margin-left: 10px;
+    }
+
+    select {
+        font-size: 125%;
+        text-align: center;
+        margin-top: 10px;
+        margin-bottom: 10px;
+        margin-right: 10px;
+        margin-left: 10px;
+    }
+
+    textarea {
+        font-size: 125%;
+        text-align: center;
+        margin-top: 10px;
+        margin-bottom: 10px;
+        margin-right: 10px;
+        margin-left: 10px;
+    }
+
+
+    div {
+        display: inline-block;
+        text-align: center;
+        margin-right: 30px;
+        width: 600px;
+    }
+
+    body {
+        background-image: url("2hqdefault.jpg");
+        background-position: center; /* Center the image */
+        background-repeat: no-repeat; /* Do not repeat the image */
+        background-size: cover;
+        font-size: 125%;
+        margin-top: 60px;
+        margin-bottom: 60px;
+    }
+}

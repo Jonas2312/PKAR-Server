@@ -1,4 +1,4 @@
-namespace WebApplication1.Models
+namespace PKAR.WebApplication.Models
 {
     public class ErrorViewModel
     {

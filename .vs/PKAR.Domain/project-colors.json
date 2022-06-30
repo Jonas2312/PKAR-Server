@@ -1,0 +1,21 @@
+{
+  "Version": 1,
+  "ProjectMap": {
+    "4c3d7afa-51e5-4a74-a06c-7bb582222195": {
+      "ProjectGuid": "4c3d7afa-51e5-4a74-a06c-7bb582222195",
+      "DisplayName": "PKAR.WebApplication",
+      "ColorIndex": 0
+    },
+    "1646ee97-a2a7-4c6d-9d1a-712126ca8058": {
+      "ProjectGuid": "1646ee97-a2a7-4c6d-9d1a-712126ca8058",
+      "DisplayName": "PKAR.Domain",
+      "ColorIndex": 1
+    },
+    "a2fe74e1-b743-11d0-ae1a-00a0c90fffc3": {
+      "ProjectGuid": "a2fe74e1-b743-11d0-ae1a-00a0c90fffc3",
+      "DisplayName": "Miscellaneous Files",
+      "ColorIndex": -1
+    }
+  },
+  "NextColorIndex": 2
+}
