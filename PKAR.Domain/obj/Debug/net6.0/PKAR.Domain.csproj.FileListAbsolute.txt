@@ -21,3 +21,4 @@ C:\Users\jonas\source\repos\PKAR-Server\PKAR.Domain\obj\Debug\net6.0\PKAR.Domain
 C:\Users\jonas\source\repos\PKAR-Server\PKAR.Domain\obj\Debug\net6.0\PKAR.Domain.dll
 C:\Users\jonas\source\repos\PKAR-Server\PKAR.Domain\obj\Debug\net6.0\ref\PKAR.Domain.dll
 C:\Users\jonas\source\repos\PKAR-Server\PKAR.Domain\obj\Debug\net6.0\PKAR.Domain.pdb
+C:\Users\jonas\source\repos\PKAR-Server\PKAR.Domain\obj\Debug\net6.0\PKAR.Domain.csproj.AssemblyReference.cache

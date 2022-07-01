@@ -15,27 +15,58 @@ namespace PKAR.WebApplication.Controllers
         }
 
         public IActionResult FormularPage1()
-        {            
-            HttpContext.Session.Set<IUserModel>(UserModelKey, new UserModel());
+        {
+            var userModel = HttpContext.Session.Get<IUserModel>(UserModelKey);
+            if (userModel == null)
+            {
+                userModel = new UserModel();
+                HttpContext.Session.Set<IUserModel>(UserModelKey, userModel);
+            }
+            ViewBag.UserModel = userModel;
             return View();
         }
 
         public IActionResult FormularPage2()
         {
-            var userModel = HttpContext.Session.Get<IUserModel>(UserModelKey);
-            userModel.FirstName = Request.Form["FirstNameTextBox"];
-            userModel.LastName = Request.Form["LastNameTextBox"];
-            userModel.Versicherungsart = Request.Form["Versicherungsart"];
-            userModel.PhoneNumber = Request.Form["phoneNumberTextBox"];
-            userModel.EmailAddress = Request.Form["emailAddressTextBox"];
+            var userModel = HttpContext.Session.Get<IUserModel>(UserModelKey); 
+            if (userModel == null)
+                return View();
+            if(Request.HasFormContentType == true && Request.Form.ContainsKey("FirstNameTextBox"))
+            {
+                userModel.FirstName = Request.Form["FirstNameTextBox"];
+                userModel.LastName = Request.Form["LastNameTextBox"];
+                userModel.Versicherungsart = Request.Form["Versicherungsart"];
+                userModel.PhoneNumber = Request.Form["phoneNumberTextBox"];
+                userModel.EmailAddress = Request.Form["emailAddressTextBox"];
+            }
             HttpContext.Session.Set<IUserModel>(UserModelKey, userModel);
             return View();
         }
 
         public IActionResult FormularPage3()
         {
-            //UserModel.FirstName = Request.Form["FirstNameTextBox"];
             var userModel = HttpContext.Session.Get<IUserModel>(UserModelKey);
+            if(userModel == null)
+                return View();
+
+            if (Request.HasFormContentType == true && Request.Form.ContainsKey("warumKommenSieTextBox"))
+            {
+                userModel.WarumKommenSie = Request.Form["warumKommenSieTextBox"];
+            }
+            return View();
+        }
+
+        public IActionResult FormularPageFinal()
+        {
+            var userModel = HttpContext.Session.Get<IUserModel>(UserModelKey);
+            if (userModel == null)
+                return View();
+
+            if (Request.HasFormContentType == true && Request.Form.ContainsKey("WieHaeufigPeriode"))
+            {
+                userModel.PeriodeAlle4Wochen = Request.Form["WieHaeufigPeriode"] == "Alle4Wochen";
+                userModel.PeriodeDasLetzteMal = Request.Form["dasLetzteMalSeit"];
+            }
             userModel.WriteToFile();
             return View();
         }

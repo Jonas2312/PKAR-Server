@@ -13,6 +13,7 @@ namespace PKAR.Domain
     {
         public UserModel()
         {
+            FirstName = string.Empty;
 
         }
         public string FirstName { get; set; }
@@ -21,6 +22,17 @@ namespace PKAR.Domain
         public string Versicherungsart { get ; set; }
         public string PhoneNumber { get; set ; }
         public string EmailAddress { get; set ; }
+        public string WarumKommenSie { get;set; }
+
+        public bool PeriodeAlle4Wochen { get;set; }
+        public string PeriodeDasLetzteMal { get; set; }
+        public bool PeriodeProbleme { get; set; }
+        public string PeriodenProblemDauer { get; set; }
+        public string PeriodenProblemStaerke { get; set; }
+        public string PeriodenProblemSchmerzen { get; set; }
+        public string Abstand2Blutungen { get; set; }
+
+
 
         public event PropertyChangedEventHandler? PropertyChanged;
 

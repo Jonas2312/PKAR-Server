@@ -12,7 +12,10 @@
 <form asp-controller="Formular" asp-action="FormularPage3">
     
   <div>Warum kommen Sie in die Praxis? Wenn Sie wegen Schmerzen kommen, beachten Sie bitte das Schema am Ende dieses Fragebogens</div><br>
-  <textarea style="width:300px; height:150px;" runat="server" type="text" id="warumKommenSieTextBox" name="warumKommenSieTextBox"></textarea><br>
+  <textarea cols="30" rows="5" runat="server" type="text" class="textarea" id="warumKommenSieTextBox" name="warumKommenSieTextBox"></textarea><br>
+  
+  <input type="button" value="Zurück" onclick="window.location='/Formular/FormularPage1';" />  
+
   
   <input type="submit">
 </form>

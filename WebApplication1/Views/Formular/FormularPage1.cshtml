@@ -12,10 +12,10 @@
 <form asp-controller="Formular" asp-action="FormularPage2">
 
   <label >Vorname: </label><br>
-  <input runat="server" type="text" id="firstNameTextBox" name="firstNameTextBox"><br>
+  <input runat="server" type="text" id="firstNameTextBox" name="firstNameTextBox" value="@ViewBag.UserModel.FirstName"><br>
   
   <label>Nachname: </label><br>
-  <input  runat="server" type="text" id="lastNameTextBox" name="lastNameTextBox"><br>
+  <input  runat="server" type="text" id="lastNameTextBox" name="lastNameTextBox"  value="@ViewBag.UserModel.LastName"><br>
 
   <label>Art der Versicherung: </label><br>
   <select runat="server" name="Versicherungsart" id="Versicherungsart"><br>

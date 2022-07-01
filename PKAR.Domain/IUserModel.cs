@@ -15,6 +15,15 @@ namespace PKAR.Domain
 
         string PhoneNumber { get; set; }
         string EmailAddress { get; set; }
-        
+
+        string WarumKommenSie { get; set; }
+        bool PeriodeAlle4Wochen { get; set; }
+        string PeriodeDasLetzteMal { get; set; }
+        bool PeriodeProbleme { get; set; }
+        string PeriodenProblemDauer { get; set; }
+        string PeriodenProblemStaerke { get; set; }
+        string PeriodenProblemSchmerzen { get; set; }
+        string Abstand2Blutungen { get; set; }
+
     }
 }

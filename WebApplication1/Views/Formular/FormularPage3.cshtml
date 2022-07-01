@@ -10,7 +10,110 @@
     <link rel="stylesheet" href="~/css/site.css" asp-append-version="true" />
 </head>
 
-<form>
-    <label>Fertig</label><br>
+<form asp-controller="Formular" asp-action="FormularPageFinal">
+    
+
+  <label>Wie häufig haben Sie Periode: </label><br>
+  <select runat="server" name="WieHaeufigPeriode" id="WieHaeufigPeriode"><br>
+      <option value="Alle4Wochen">Alle 4 Wochen ohne Probleme</option>
+      <option value="NichtMehrSeit">Schon seit über 4 Wochen nicht mehr</option>
+  </select><br>
+
+  <label>Das letzte mal seit: </label><br>
+  <input runat="server" type="text" id="dasLetzteMalSeit" name="dasLetzteMalSeit"><br>
+  
+  <label>Haben Sie Probleme bei der Periode?   </label>
+  <select runat="server" name="ProblemeBeiDerPeriode" id="ProblemeBeiDerPeriode" onchange="OnSelectProbleme();"><br>
+      <option value="Nein">Nein</option>
+      <option value="Ja">Ja</option>
+  </select><br>
+
+  <label id="ProblemeDauerLabel" name="ProblemeDauerLabel">Dauer der Probleme: </label>
+  <br id="ProblemeBreak" name="ProblemeBreak">  
+  <input runat="server" type="text" id="ProblemeDauer" name="ProblemeDauer">
+  <br id="ProblemeBreak2" name="ProblemeBreak2">
+  
+  <label id="ProblemeStaerkeLabel" name="ProblemeStaerkeLabel">Staerke der Probleme: </label>
+  <br id="ProblemeBreak3" name="ProblemeBreak3"> 
+  <input runat="server" type="text" id="ProblemeStaerke" name="ProblemeStaerke">
+  <br id="ProblemeBreak4" name="ProblemeBreak4">  
+
+  <label id="ProblemeSchmerzenLabel" name="ProblemeSchmerzenLabel">Auftretende Schmerzen: </label>
+  <br id="ProblemeBreak5" name="ProblemeBreak5"> 
+  <input runat="server" type="text" id="ProblemeSchmerzen" name="ProblemeSchmerzen">
+  <br id="ProblemeBreak6" name="ProblemeBreak6"> 
+  
+  <label id="ProblemeAbstandLabel" name="ProblemeAbstandLabel">Abstand zwischen zwei Blutungen (Beginn bis Beginn) </label>
+  <br id="ProblemeBreak5" name="ProblemeBreak7"> 
+  <input runat="server" type="text" id="ProblemeAbstand" name="ProblemeAbstand">
+  <br id="ProblemeBreak6" name="ProblemeBreak8"> 
+  
+  <input type="button" value="Zurück" onclick="window.location='/Formular/FormularPage2';" />  
+
+  <input type="submit">
   
 </form>
+
+
+<script>
+    
+  function onLoadFunctions() {
+    OnSelectProbleme();   
+  }
+  window.onload = onLoadFunctions;
+
+function OnSelectProbleme() {
+    var selectedValue = document.getElementById('ProblemeBeiDerPeriode').value;
+    var problemeDauerElement = document.getElementById('ProblemeDauer');
+    var problemeDauerElementLabel = document.getElementById('ProblemeDauerLabel');
+    var problemeStaerkeElement = document.getElementById('ProblemeStaerke');
+    var problemeStaerkeElementLabel = document.getElementById('ProblemeStaerkeLabel');
+    var problemeSchmerzenElement = document.getElementById('ProblemeSchmerzen');
+    var problemeSchmerzenElementLabel = document.getElementById('ProblemeSchmerzenLabel');
+    var problemeAbstandElement = document.getElementById('ProblemeAbstand');
+    var problemeAbstandElementLabel = document.getElementById('ProblemeAbstandLabel');
+    var problemeBreak = document.getElementById('ProblemeBreak');
+    var problemeBreak2 = document.getElementById('ProblemeBreak2');
+    var problemeBreak3 = document.getElementById('ProblemeBreak3');
+    var problemeBreak4 = document.getElementById('ProblemeBreak4');
+    var problemeBreak5 = document.getElementById('ProblemeBreak5');
+    var problemeBreak6 = document.getElementById('ProblemeBreak6');
+    var problemeBreak7 = document.getElementById('ProblemeBreak7');
+    var problemeBreak8 = document.getElementById('ProblemeBreak8');
+    if(selectedValue === "Nein"){
+        problemeDauerElement.style.display = "none";
+        problemeDauerElementLabel.style.display = "none";
+        problemeStaerkeElement.style.display = "none";
+        problemeStaerkeElementLabel.style.display = "none";
+        problemeSchmerzenElement.style.display = "none";
+        problemeSchmerzenElementLabel.style.display = "none";
+        problemeAbstandElement.style.display = "none";
+        problemeAbstandElementLabel.style.display = "none";
+        problemeBreak.style.display = "none";
+        problemeBreak2.style.display = "none";
+        problemeBreak3.style.display = "none";
+        problemeBreak4.style.display = "none";
+        problemeBreak5.style.display = "none";
+        problemeBreak6.style.display = "none";
+        problemeBreak7.style.display = "none";
+        problemeBreak8.style.display = "none";
+    }else{
+        problemeDauerElement.style.display = "inline-block";
+        problemeDauerElementLabel.style.display = "inline-block";        
+        problemeStaerkeElement.style.display = "inline-block";
+        problemeStaerkeElementLabel.style.display = "inline-block";
+        problemeSchmerzenElement.style.display = "inline-block";
+        problemeSchmerzenElementLabel.style.display = "inline-block";
+        problemeAbstandElement.style.display = "inline-block";
+        problemeAbstandElementLabel.style.display = "inline-block";
+        problemeBreak.style.display = "inline-block";        
+        problemeBreak2.style.display = "inline-block";
+        problemeBreak3.style.display = "inline-block";
+        problemeBreak4.style.display = "inline-block";
+        problemeBreak5.style.display = "inline-block";
+        problemeBreak6.style.display = "inline-block";
+        problemeBreak7.style.display = "inline-block";
+        problemeBreak8.style.display = "inline-block";
+    }
+}
+</script>
