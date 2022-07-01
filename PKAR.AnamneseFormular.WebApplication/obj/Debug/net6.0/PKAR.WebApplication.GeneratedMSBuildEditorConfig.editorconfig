@@ -1,0 +1,56 @@
+is_global = true
+build_property.TargetFramework = net6.0
+build_property.TargetPlatformMinVersion = 
+build_property.UsingMicrosoftNETSdkWeb = true
+build_property.ProjectTypeGuids = 
+build_property.InvariantGlobalization = 
+build_property.PlatformNeutralAssembly = 
+build_property._SupportedPlatformList = Linux,macOS,Windows
+build_property.RootNamespace = PKAR.WebApplication
+build_property.RootNamespace = PKAR.WebApplication
+build_property.ProjectDir = G:\Meine Ablage\Kunden\Ärzte\Praxisklinik am Rosengarten\Code\PKAR.AnamneseFormular\PKAR.WebApplication\
+build_property.RazorLangVersion = 6.0
+build_property.SupportLocalizedComponentNames = 
+build_property.GenerateRazorMetadataSourceChecksumAttributes = 
+build_property.MSBuildProjectDirectory = G:\Meine Ablage\Kunden\Ärzte\Praxisklinik am Rosengarten\Code\PKAR.AnamneseFormular\PKAR.WebApplication
+build_property._RazorSourceGeneratorDebug = 
+
+[G:/Meine Ablage/Kunden/Ärzte/Praxisklinik am Rosengarten/Code/PKAR.AnamneseFormular/PKAR.WebApplication/Views/Formular/FormularPage1.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcRm9ybXVsYXJcRm9ybXVsYXJQYWdlMS5jc2h0bWw=
+build_metadata.AdditionalFiles.CssScope = 
+
+[G:/Meine Ablage/Kunden/Ärzte/Praxisklinik am Rosengarten/Code/PKAR.AnamneseFormular/PKAR.WebApplication/Views/Formular/FormularPage2.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcRm9ybXVsYXJcRm9ybXVsYXJQYWdlMi5jc2h0bWw=
+build_metadata.AdditionalFiles.CssScope = 
+
+[G:/Meine Ablage/Kunden/Ärzte/Praxisklinik am Rosengarten/Code/PKAR.AnamneseFormular/PKAR.WebApplication/Views/Formular/FormularPage3.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcRm9ybXVsYXJcRm9ybXVsYXJQYWdlMy5jc2h0bWw=
+build_metadata.AdditionalFiles.CssScope = 
+
+[G:/Meine Ablage/Kunden/Ärzte/Praxisklinik am Rosengarten/Code/PKAR.AnamneseFormular/PKAR.WebApplication/Views/Formular/FormularPage4.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcRm9ybXVsYXJcRm9ybXVsYXJQYWdlNC5jc2h0bWw=
+build_metadata.AdditionalFiles.CssScope = 
+
+[G:/Meine Ablage/Kunden/Ärzte/Praxisklinik am Rosengarten/Code/PKAR.AnamneseFormular/PKAR.WebApplication/Views/Formular/FormularPage5.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcRm9ybXVsYXJcRm9ybXVsYXJQYWdlNS5jc2h0bWw=
+build_metadata.AdditionalFiles.CssScope = 
+
+[G:/Meine Ablage/Kunden/Ärzte/Praxisklinik am Rosengarten/Code/PKAR.AnamneseFormular/PKAR.WebApplication/Views/Formular/FormularPageFInal.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcRm9ybXVsYXJcRm9ybXVsYXJQYWdlRkluYWwuY3NodG1s
+build_metadata.AdditionalFiles.CssScope = 
+
+[G:/Meine Ablage/Kunden/Ärzte/Praxisklinik am Rosengarten/Code/PKAR.AnamneseFormular/PKAR.WebApplication/Views/Home/Index.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcSG9tZVxJbmRleC5jc2h0bWw=
+build_metadata.AdditionalFiles.CssScope = 
+
+[G:/Meine Ablage/Kunden/Ärzte/Praxisklinik am Rosengarten/Code/PKAR.AnamneseFormular/PKAR.WebApplication/Views/Shared/Error.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcU2hhcmVkXEVycm9yLmNzaHRtbA==
+build_metadata.AdditionalFiles.CssScope = 
+
+[G:/Meine Ablage/Kunden/Ärzte/Praxisklinik am Rosengarten/Code/PKAR.AnamneseFormular/PKAR.WebApplication/Views/_ViewImports.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcX1ZpZXdJbXBvcnRzLmNzaHRtbA==
+build_metadata.AdditionalFiles.CssScope = 
+
+[G:/Meine Ablage/Kunden/Ärzte/Praxisklinik am Rosengarten/Code/PKAR.AnamneseFormular/PKAR.WebApplication/Views/_ViewStart.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcX1ZpZXdTdGFydC5jc2h0bWw=
+build_metadata.AdditionalFiles.CssScope = 

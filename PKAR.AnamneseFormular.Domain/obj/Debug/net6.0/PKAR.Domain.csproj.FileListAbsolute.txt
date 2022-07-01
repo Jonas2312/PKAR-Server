@@ -1,0 +1,35 @@
+C:\Users\jonas\source\repos\PKAR.Domain\PKAR.Domain\bin\Debug\net6.0\PKAR.Domain.deps.json
+C:\Users\jonas\source\repos\PKAR.Domain\PKAR.Domain\bin\Debug\net6.0\PKAR.Domain.dll
+C:\Users\jonas\source\repos\PKAR.Domain\PKAR.Domain\bin\Debug\net6.0\ref\PKAR.Domain.dll
+C:\Users\jonas\source\repos\PKAR.Domain\PKAR.Domain\bin\Debug\net6.0\PKAR.Domain.pdb
+C:\Users\jonas\source\repos\PKAR.Domain\PKAR.Domain\obj\Debug\net6.0\PKAR.Domain.csproj.AssemblyReference.cache
+C:\Users\jonas\source\repos\PKAR.Domain\PKAR.Domain\obj\Debug\net6.0\PKAR.Domain.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\jonas\source\repos\PKAR.Domain\PKAR.Domain\obj\Debug\net6.0\PKAR.Domain.AssemblyInfoInputs.cache
+C:\Users\jonas\source\repos\PKAR.Domain\PKAR.Domain\obj\Debug\net6.0\PKAR.Domain.AssemblyInfo.cs
+C:\Users\jonas\source\repos\PKAR.Domain\PKAR.Domain\obj\Debug\net6.0\PKAR.Domain.csproj.CoreCompileInputs.cache
+C:\Users\jonas\source\repos\PKAR.Domain\PKAR.Domain\obj\Debug\net6.0\PKAR.Domain.dll
+C:\Users\jonas\source\repos\PKAR.Domain\PKAR.Domain\obj\Debug\net6.0\ref\PKAR.Domain.dll
+C:\Users\jonas\source\repos\PKAR.Domain\PKAR.Domain\obj\Debug\net6.0\PKAR.Domain.pdb
+C:\Users\jonas\source\repos\PKAR-Server\PKAR.Domain\bin\Debug\net6.0\PKAR.Domain.deps.json
+C:\Users\jonas\source\repos\PKAR-Server\PKAR.Domain\bin\Debug\net6.0\PKAR.Domain.dll
+C:\Users\jonas\source\repos\PKAR-Server\PKAR.Domain\bin\Debug\net6.0\ref\PKAR.Domain.dll
+C:\Users\jonas\source\repos\PKAR-Server\PKAR.Domain\bin\Debug\net6.0\PKAR.Domain.pdb
+C:\Users\jonas\source\repos\PKAR-Server\PKAR.Domain\obj\Debug\net6.0\PKAR.Domain.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\jonas\source\repos\PKAR-Server\PKAR.Domain\obj\Debug\net6.0\PKAR.Domain.AssemblyInfoInputs.cache
+C:\Users\jonas\source\repos\PKAR-Server\PKAR.Domain\obj\Debug\net6.0\PKAR.Domain.AssemblyInfo.cs
+C:\Users\jonas\source\repos\PKAR-Server\PKAR.Domain\obj\Debug\net6.0\PKAR.Domain.csproj.CoreCompileInputs.cache
+C:\Users\jonas\source\repos\PKAR-Server\PKAR.Domain\obj\Debug\net6.0\PKAR.Domain.dll
+C:\Users\jonas\source\repos\PKAR-Server\PKAR.Domain\obj\Debug\net6.0\ref\PKAR.Domain.dll
+C:\Users\jonas\source\repos\PKAR-Server\PKAR.Domain\obj\Debug\net6.0\PKAR.Domain.pdb
+C:\Users\jonas\source\repos\PKAR-Server\PKAR.Domain\obj\Debug\net6.0\PKAR.Domain.csproj.AssemblyReference.cache
+G:\Meine Ablage\Kunden\Ärzte\Praxisklinik am Rosengarten\Code\PKAR-Server\PKAR.Domain\bin\Debug\net6.0\PKAR.Domain.deps.json
+G:\Meine Ablage\Kunden\Ärzte\Praxisklinik am Rosengarten\Code\PKAR-Server\PKAR.Domain\bin\Debug\net6.0\PKAR.Domain.dll
+G:\Meine Ablage\Kunden\Ärzte\Praxisklinik am Rosengarten\Code\PKAR-Server\PKAR.Domain\bin\Debug\net6.0\ref\PKAR.Domain.dll
+G:\Meine Ablage\Kunden\Ärzte\Praxisklinik am Rosengarten\Code\PKAR-Server\PKAR.Domain\bin\Debug\net6.0\PKAR.Domain.pdb
+G:\Meine Ablage\Kunden\Ärzte\Praxisklinik am Rosengarten\Code\PKAR-Server\PKAR.Domain\obj\Debug\net6.0\PKAR.Domain.GeneratedMSBuildEditorConfig.editorconfig
+G:\Meine Ablage\Kunden\Ärzte\Praxisklinik am Rosengarten\Code\PKAR-Server\PKAR.Domain\obj\Debug\net6.0\PKAR.Domain.AssemblyInfoInputs.cache
+G:\Meine Ablage\Kunden\Ärzte\Praxisklinik am Rosengarten\Code\PKAR-Server\PKAR.Domain\obj\Debug\net6.0\PKAR.Domain.AssemblyInfo.cs
+G:\Meine Ablage\Kunden\Ärzte\Praxisklinik am Rosengarten\Code\PKAR-Server\PKAR.Domain\obj\Debug\net6.0\PKAR.Domain.csproj.CoreCompileInputs.cache
+G:\Meine Ablage\Kunden\Ärzte\Praxisklinik am Rosengarten\Code\PKAR-Server\PKAR.Domain\obj\Debug\net6.0\PKAR.Domain.dll
+G:\Meine Ablage\Kunden\Ärzte\Praxisklinik am Rosengarten\Code\PKAR-Server\PKAR.Domain\obj\Debug\net6.0\ref\PKAR.Domain.dll
+G:\Meine Ablage\Kunden\Ärzte\Praxisklinik am Rosengarten\Code\PKAR-Server\PKAR.Domain\obj\Debug\net6.0\PKAR.Domain.pdb

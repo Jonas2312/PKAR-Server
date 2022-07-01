@@ -1,0 +1,62 @@
+﻿
+
+@media (min-width: 768px) {
+
+    html {
+        font-size: 125%;
+        text-align: center;
+        margin-top: 10px;
+        margin-bottom: 10px;
+        margin-right: 10px;
+        margin-left: 10px;
+    }
+
+    button {
+        font-size: 125%;
+    }
+
+    input {
+        font-size: 125%;
+        text-align: center;
+        margin-top: 10px;
+        margin-bottom: 10px;
+        margin-right: 10px;
+        margin-left: 10px;
+    }
+
+    select {
+        font-size: 125%;
+        text-align: center;
+        margin-top: 10px;
+        margin-bottom: 10px;
+        margin-right: 10px;
+        margin-left: 10px;
+    }
+
+    textarea {
+
+        font-size: 125%;
+        margin-top: 10px;
+        margin-bottom: 10px;
+        margin-right: 10px;
+        margin-left: 10px;
+    }
+
+
+    div {
+        display: inline-block;
+        text-align: center;
+        margin-top: 10px;
+        margin-bottom: 10px;
+        margin-right: 10px;
+        margin-left: 10px;
+        max-width: 600px;
+    }
+
+    body {
+        background-color: orange;
+        font-size: 125%;
+        margin-top: 60px;
+        margin-bottom: 60px;
+    }
+}

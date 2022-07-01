@@ -15,7 +15,12 @@
       "ProjectGuid": "a2fe74e1-b743-11d0-ae1a-00a0c90fffc3",
       "DisplayName": "Miscellaneous Files",
       "ColorIndex": -1
+    },
+    "9afc2d60-cae1-4bdc-a5c5-a304c565d4f5": {
+      "ProjectGuid": "9afc2d60-cae1-4bdc-a5c5-a304c565d4f5",
+      "DisplayName": "PKAR.WebApplication",
+      "ColorIndex": 2
     }
   },
-  "NextColorIndex": 2
+  "NextColorIndex": 3
 }

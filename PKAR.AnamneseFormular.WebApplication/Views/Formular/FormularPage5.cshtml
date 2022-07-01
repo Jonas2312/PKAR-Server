@@ -1,0 +1,36 @@
+﻿
+@{
+    ViewData["Title"] = "FormularPage3";
+}
+
+
+<head>
+    <meta charset="utf-8" />
+    <meta name="viewport" content="width=device-width, initial-scale=1.0" />
+    <link rel="stylesheet" href="~/css/site.css" asp-append-version="true" />
+</head>
+
+<form asp-controller="Formular" asp-action="FormularPageFinal">
+    
+  <div>Waren Sie schon einmal schwanger? Wenn ja, bitte Jahr und Verlauf angeben (Fehlgeburt, Kaiserschnitt, Komplikationen)</div><br>
+  <textarea cols="30" rows="5" runat="server" type="text" id="firstNameTextBox" name="firstNameTextBox"></textarea><br>
+  
+  <div>Nehmen Sie Hormone (Pille, Wechseljahresbeschwerden?) Wenn ja, bitte den Namen angeben</div><br>
+  <textarea cols="30" rows="5"  runat="server" type="text" id="lastNameTextBox" name="lastNameTextBox"></textarea><br>
+
+  
+  <input type="button" value="Zurück" onclick="window.location='/Formular/FormularPage4';" />  
+
+  <input type="submit">
+  
+</form>
+
+
+<script>
+    
+  function onLoadFunctions() {
+  }
+  window.onload = onLoadFunctions;
+
+}
+</script>

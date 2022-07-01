@@ -1,0 +1,36 @@
+﻿
+@{
+    ViewData["Title"] = "FormularPage3";
+}
+
+
+<head>
+    <meta charset="utf-8" />
+    <meta name="viewport" content="width=device-width, initial-scale=1.0" />
+    <link rel="stylesheet" href="~/css/site.css" asp-append-version="true" />
+</head>
+
+<form asp-controller="Formular" asp-action="FormularPage5">
+    
+  <div>Wann und wo waren Sie zuletzt bei der gynäkologischen Krebsvorsorge? </div><br>
+  <input runat="server" type="text" id="firstNameTextBox" name="firstNameTextBox"><br>
+  
+  <div>Sind Sie gegen das Humane Papillomavirus geimpft? </div><br>
+  <input  runat="server" type="text" id="lastNameTextBox" name="lastNameTextBox"><br>
+
+  
+  <input type="button" value="Zurück" onclick="window.location='/Formular/FormularPage3';" />  
+
+  <input type="submit">
+  
+</form>
+
+
+<script>
+    
+  function onLoadFunctions() {
+  }
+  window.onload = onLoadFunctions;
+
+}
+</script>

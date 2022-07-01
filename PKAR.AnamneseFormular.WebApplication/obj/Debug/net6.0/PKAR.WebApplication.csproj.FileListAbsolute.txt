@@ -1,0 +1,62 @@
+C:\Users\jonas\source\repos\PKAR-Server\WebApplication1\bin\Debug\net6.0\appsettings.Development.json
+C:\Users\jonas\source\repos\PKAR-Server\WebApplication1\bin\Debug\net6.0\appsettings.json
+C:\Users\jonas\source\repos\PKAR-Server\WebApplication1\bin\Debug\net6.0\libman.json
+C:\Users\jonas\source\repos\PKAR-Server\WebApplication1\bin\Debug\net6.0\PKAR.WebApplication.staticwebassets.runtime.json
+C:\Users\jonas\source\repos\PKAR-Server\WebApplication1\bin\Debug\net6.0\PKAR.WebApplication.exe
+C:\Users\jonas\source\repos\PKAR-Server\WebApplication1\bin\Debug\net6.0\PKAR.WebApplication.deps.json
+C:\Users\jonas\source\repos\PKAR-Server\WebApplication1\bin\Debug\net6.0\PKAR.WebApplication.runtimeconfig.json
+C:\Users\jonas\source\repos\PKAR-Server\WebApplication1\bin\Debug\net6.0\PKAR.WebApplication.dll
+C:\Users\jonas\source\repos\PKAR-Server\WebApplication1\bin\Debug\net6.0\ref\PKAR.WebApplication.dll
+C:\Users\jonas\source\repos\PKAR-Server\WebApplication1\bin\Debug\net6.0\PKAR.WebApplication.pdb
+C:\Users\jonas\source\repos\PKAR-Server\WebApplication1\bin\Debug\net6.0\Microsoft.DotNet.PlatformAbstractions.dll
+C:\Users\jonas\source\repos\PKAR-Server\WebApplication1\bin\Debug\net6.0\Microsoft.Extensions.DependencyModel.dll
+C:\Users\jonas\source\repos\PKAR-Server\WebApplication1\bin\Debug\net6.0\Newtonsoft.Json.dll
+C:\Users\jonas\source\repos\PKAR-Server\WebApplication1\bin\Debug\net6.0\PKAR.Domain.dll
+C:\Users\jonas\source\repos\PKAR-Server\WebApplication1\bin\Debug\net6.0\PKAR.Domain.pdb
+C:\Users\jonas\source\repos\PKAR-Server\WebApplication1\obj\Debug\net6.0\PKAR.WebApplication.csproj.AssemblyReference.cache
+C:\Users\jonas\source\repos\PKAR-Server\WebApplication1\obj\Debug\net6.0\PKAR.WebApplication.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\jonas\source\repos\PKAR-Server\WebApplication1\obj\Debug\net6.0\PKAR.WebApplication.AssemblyInfoInputs.cache
+C:\Users\jonas\source\repos\PKAR-Server\WebApplication1\obj\Debug\net6.0\PKAR.WebApplication.AssemblyInfo.cs
+C:\Users\jonas\source\repos\PKAR-Server\WebApplication1\obj\Debug\net6.0\PKAR.WebApplication.csproj.CoreCompileInputs.cache
+C:\Users\jonas\source\repos\PKAR-Server\WebApplication1\obj\Debug\net6.0\PKAR.WebApplication.MvcApplicationPartsAssemblyInfo.cache
+C:\Users\jonas\source\repos\PKAR-Server\WebApplication1\obj\Debug\net6.0\PKAR.WebApplication.RazorAssemblyInfo.cache
+C:\Users\jonas\source\repos\PKAR-Server\WebApplication1\obj\Debug\net6.0\PKAR.WebApplication.RazorAssemblyInfo.cs
+C:\Users\jonas\source\repos\PKAR-Server\WebApplication1\obj\Debug\net6.0\staticwebassets.build.json
+C:\Users\jonas\source\repos\PKAR-Server\WebApplication1\obj\Debug\net6.0\staticwebassets.development.json
+C:\Users\jonas\source\repos\PKAR-Server\WebApplication1\obj\Debug\net6.0\scopedcss\bundle\PKAR.WebApplication.styles.css
+C:\Users\jonas\source\repos\PKAR-Server\WebApplication1\obj\Debug\net6.0\PKAR.WebApplication.csproj.CopyComplete
+C:\Users\jonas\source\repos\PKAR-Server\WebApplication1\obj\Debug\net6.0\PKAR.WebApplication.dll
+C:\Users\jonas\source\repos\PKAR-Server\WebApplication1\obj\Debug\net6.0\ref\PKAR.WebApplication.dll
+C:\Users\jonas\source\repos\PKAR-Server\WebApplication1\obj\Debug\net6.0\PKAR.WebApplication.pdb
+C:\Users\jonas\source\repos\PKAR-Server\WebApplication1\obj\Debug\net6.0\PKAR.WebApplication.genruntimeconfig.cache
+G:\Meine Ablage\Kunden\Ärzte\Praxisklinik am Rosengarten\Code\PKAR-Server\PKAR.WebApplication\bin\Debug\net6.0\appsettings.Development.json
+G:\Meine Ablage\Kunden\Ärzte\Praxisklinik am Rosengarten\Code\PKAR-Server\PKAR.WebApplication\bin\Debug\net6.0\appsettings.json
+G:\Meine Ablage\Kunden\Ärzte\Praxisklinik am Rosengarten\Code\PKAR-Server\PKAR.WebApplication\bin\Debug\net6.0\libman.json
+G:\Meine Ablage\Kunden\Ärzte\Praxisklinik am Rosengarten\Code\PKAR-Server\PKAR.WebApplication\bin\Debug\net6.0\PKAR.WebApplication.staticwebassets.runtime.json
+G:\Meine Ablage\Kunden\Ärzte\Praxisklinik am Rosengarten\Code\PKAR-Server\PKAR.WebApplication\bin\Debug\net6.0\PKAR.WebApplication.exe
+G:\Meine Ablage\Kunden\Ärzte\Praxisklinik am Rosengarten\Code\PKAR-Server\PKAR.WebApplication\bin\Debug\net6.0\PKAR.WebApplication.deps.json
+G:\Meine Ablage\Kunden\Ärzte\Praxisklinik am Rosengarten\Code\PKAR-Server\PKAR.WebApplication\bin\Debug\net6.0\PKAR.WebApplication.runtimeconfig.json
+G:\Meine Ablage\Kunden\Ärzte\Praxisklinik am Rosengarten\Code\PKAR-Server\PKAR.WebApplication\bin\Debug\net6.0\PKAR.WebApplication.dll
+G:\Meine Ablage\Kunden\Ärzte\Praxisklinik am Rosengarten\Code\PKAR-Server\PKAR.WebApplication\bin\Debug\net6.0\ref\PKAR.WebApplication.dll
+G:\Meine Ablage\Kunden\Ärzte\Praxisklinik am Rosengarten\Code\PKAR-Server\PKAR.WebApplication\bin\Debug\net6.0\PKAR.WebApplication.pdb
+G:\Meine Ablage\Kunden\Ärzte\Praxisklinik am Rosengarten\Code\PKAR-Server\PKAR.WebApplication\bin\Debug\net6.0\Microsoft.DotNet.PlatformAbstractions.dll
+G:\Meine Ablage\Kunden\Ärzte\Praxisklinik am Rosengarten\Code\PKAR-Server\PKAR.WebApplication\bin\Debug\net6.0\Microsoft.Extensions.DependencyModel.dll
+G:\Meine Ablage\Kunden\Ärzte\Praxisklinik am Rosengarten\Code\PKAR-Server\PKAR.WebApplication\bin\Debug\net6.0\Newtonsoft.Json.dll
+G:\Meine Ablage\Kunden\Ärzte\Praxisklinik am Rosengarten\Code\PKAR-Server\PKAR.WebApplication\bin\Debug\net6.0\PKAR.Domain.dll
+G:\Meine Ablage\Kunden\Ärzte\Praxisklinik am Rosengarten\Code\PKAR-Server\PKAR.WebApplication\bin\Debug\net6.0\PKAR.Domain.pdb
+G:\Meine Ablage\Kunden\Ärzte\Praxisklinik am Rosengarten\Code\PKAR-Server\PKAR.WebApplication\obj\Debug\net6.0\PKAR.WebApplication.csproj.AssemblyReference.cache
+G:\Meine Ablage\Kunden\Ärzte\Praxisklinik am Rosengarten\Code\PKAR-Server\PKAR.WebApplication\obj\Debug\net6.0\PKAR.WebApplication.GeneratedMSBuildEditorConfig.editorconfig
+G:\Meine Ablage\Kunden\Ärzte\Praxisklinik am Rosengarten\Code\PKAR-Server\PKAR.WebApplication\obj\Debug\net6.0\PKAR.WebApplication.AssemblyInfoInputs.cache
+G:\Meine Ablage\Kunden\Ärzte\Praxisklinik am Rosengarten\Code\PKAR-Server\PKAR.WebApplication\obj\Debug\net6.0\PKAR.WebApplication.AssemblyInfo.cs
+G:\Meine Ablage\Kunden\Ärzte\Praxisklinik am Rosengarten\Code\PKAR-Server\PKAR.WebApplication\obj\Debug\net6.0\PKAR.WebApplication.csproj.CoreCompileInputs.cache
+G:\Meine Ablage\Kunden\Ärzte\Praxisklinik am Rosengarten\Code\PKAR-Server\PKAR.WebApplication\obj\Debug\net6.0\PKAR.WebApplication.MvcApplicationPartsAssemblyInfo.cache
+G:\Meine Ablage\Kunden\Ärzte\Praxisklinik am Rosengarten\Code\PKAR-Server\PKAR.WebApplication\obj\Debug\net6.0\PKAR.WebApplication.RazorAssemblyInfo.cache
+G:\Meine Ablage\Kunden\Ärzte\Praxisklinik am Rosengarten\Code\PKAR-Server\PKAR.WebApplication\obj\Debug\net6.0\PKAR.WebApplication.RazorAssemblyInfo.cs
+G:\Meine Ablage\Kunden\Ärzte\Praxisklinik am Rosengarten\Code\PKAR-Server\PKAR.WebApplication\obj\Debug\net6.0\staticwebassets.build.json
+G:\Meine Ablage\Kunden\Ärzte\Praxisklinik am Rosengarten\Code\PKAR-Server\PKAR.WebApplication\obj\Debug\net6.0\staticwebassets.development.json
+G:\Meine Ablage\Kunden\Ärzte\Praxisklinik am Rosengarten\Code\PKAR-Server\PKAR.WebApplication\obj\Debug\net6.0\scopedcss\bundle\PKAR.WebApplication.styles.css
+G:\Meine Ablage\Kunden\Ärzte\Praxisklinik am Rosengarten\Code\PKAR-Server\PKAR.WebApplication\obj\Debug\net6.0\PKAR.WebApplication.csproj.CopyComplete
+G:\Meine Ablage\Kunden\Ärzte\Praxisklinik am Rosengarten\Code\PKAR-Server\PKAR.WebApplication\obj\Debug\net6.0\PKAR.WebApplication.dll
+G:\Meine Ablage\Kunden\Ärzte\Praxisklinik am Rosengarten\Code\PKAR-Server\PKAR.WebApplication\obj\Debug\net6.0\ref\PKAR.WebApplication.dll
+G:\Meine Ablage\Kunden\Ärzte\Praxisklinik am Rosengarten\Code\PKAR-Server\PKAR.WebApplication\obj\Debug\net6.0\PKAR.WebApplication.pdb
+G:\Meine Ablage\Kunden\Ärzte\Praxisklinik am Rosengarten\Code\PKAR-Server\PKAR.WebApplication\obj\Debug\net6.0\PKAR.WebApplication.genruntimeconfig.cache
